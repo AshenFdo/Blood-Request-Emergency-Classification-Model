@@ -70,8 +70,8 @@ This repo contains the work for **steps 2 and 3** — preparing the dataset and 
 ```
 Blood-Request-Emergency-Classification-Model/
 │
-├── 📓 notebooks/
-│   ├── 01_dataset_exploration.ipynb   # Understanding the data
+├── 📓 notebooks/                                                    # All notebooks are created in Google colab
+│   ├── Huggingface_blood_request_emegency_datasate_creation.ipynb   # Data set Creation
 │   └── 02_model_training.ipynb        # Fine-tuning the classifier
 │
 ├── 📁 data/
@@ -82,7 +82,8 @@ Blood-Request-Emergency-Classification-Model/
 ├── 📄 README.md
 └── 📄 requirements.txt
 ```
-
+## Notebook links
+* Huggingface_blood_request_emegency_datasate_creation: [`google-colab`](https://colab.research.google.com/drive/1uiqyCGHtfWJzFPcuxpIib2Mfk8sj1DFC?usp=sharing)
 ---
 
 ## 📊 The Dataset

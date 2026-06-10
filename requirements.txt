@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+
+huggingface_hub
+transformers
+torch
+accelerate
+safetensors
+
+python-dotenv
+pydantic
