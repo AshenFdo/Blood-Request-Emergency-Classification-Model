@@ -57,7 +57,7 @@ Here is where I am in the journey:
 |------|--------|------|
 | 1. Create dataset | ✅ Done | Built a synthetic dataset of 2,500 Sri Lankan blood request descriptions |
 | 2. Upload to HuggingFace | ✅ Done | Publishing dataset to HF Hub for open access |
-| 3. Train classifier model | ⏳ In Progress | Fine-tuning a text classification model on the dataset |
+| 3. Train classifier model | ✅ Done | Fine-tuning a text classification model on the dataset |
 | 4. Publish model + demo | 🔜 Next | Push trained model to HF Hub with a simple demo Space |
 | 5. Integrate into app | 🔜 Future | Plug the model API into the blood donation mobile app |
 
